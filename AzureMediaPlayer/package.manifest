@@ -1,0 +1,16 @@
+﻿{
+  "propertyEditors": [
+    {
+      "alias": "Jaywing.AzureMediaPlayer",
+      "name": "Azure Media Player",
+      "editor": {
+        "view": "~/App_Plugins/AzureMediaPlayer/azuremediaplayer.html",
+        "isReadOnly": true
+      },
+      "icon":"icon-autofill"
+    }
+  ],
+  "javascript": [
+    "~/App_Plugins/AzureMediaPlayer/azuremediaplayer.js"
+  ]
+}
